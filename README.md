@@ -8,6 +8,7 @@ Me gusta hacer cosas que la gente use de verdad. Mis proyectos más completos lo
 
 | Proyecto | Qué es | Tecnología |
 |---|---|---|
+| [**Web de Alfil Juvenil**](https://www.alfiljuvenil.com) | La web oficial de la asociación, que hice y mantengo: curso de protocolo, equipo, eventos y patrocinadores | HTML · CSS · JS |
 | [**AJ App**](https://github.com/paulans17/AJ-app) | PWA de control de asistencia por QR para el staff, funciona sin conexión | JS · PWA · Apps Script · Google Sheets |
 | [**AJ Venta de entradas**](https://github.com/paulans17/AJ-venta-entradas) | App para la mesa de venta: busca por DNI, confirma plaza y asigna número | JS · PWA · Apps Script · Google Forms |
 | [**Kahoot Gran Hotel Alfil**](https://github.com/paulans17/kahoot-alfil) | Kahoot propio en tiempo real para 130 alumnos a la vez | JS · Firebase Firestore |
